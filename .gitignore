@@ -3,3 +3,17 @@
 ################################################################################
 
 /lostsea.Net/.vs
+/lostsea.Net/lostsea.Net.API/bin
+/lostsea.Net/lostsea.Net.API/obj/Debug
+/lostsea.Net/lostsea.Net.Common/bin/Debug
+/lostsea.Net/lostsea.Net.Common/obj/Debug
+/lostsea.Net/lostsea.Net.Core/bin/Debug
+/lostsea.Net/lostsea.Net.Core/obj/Debug
+/lostsea.Net/lostsea.Net.EntityFramework/bin/Debug
+/lostsea.Net/lostsea.Net.EntityFramework/obj/Debug
+/lostsea.Net/lostsea.Net.Service/bin/Debug
+/lostsea.Net/lostsea.Net.Service/obj/Debug
+/lostsea.Net/lostsea.Net.UnitTest/bin/Debug
+/lostsea.Net/lostsea.Net.UnitTest/obj/Debug
+/lostsea.Net/lostsea.Net.Web/obj/Debug
+/lostsea.Net/packages
