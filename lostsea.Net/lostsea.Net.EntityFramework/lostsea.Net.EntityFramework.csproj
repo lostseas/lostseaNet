@@ -54,7 +54,10 @@
     <Compile Include="BaseData\IEntity.cs" />
     <Compile Include="ContextConfig.cs" />
     <Compile Include="DBContext.cs" />
+    <Compile Include="Entities\Tsys_AuthAccessToken.cs" />
     <Compile Include="Entities\Tsys_AuthClient.cs" />
+    <Compile Include="Entities\Tsys_AuthTokenRecord.cs" />
+    <Compile Include="Entities\Tsys_User.cs" />
     <Compile Include="Migrations\201810250241477_InitData.cs" />
     <Compile Include="Migrations\201810250241477_InitData.Designer.cs">
       <DependentUpon>201810250241477_InitData.cs</DependentUpon>

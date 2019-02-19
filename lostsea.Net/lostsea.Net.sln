@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lostsea.Net.API", "lostsea.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lostsea.Net.Common", "lostsea.Net.Common\lostsea.Net.Common.csproj", "{3CDA0930-5428-4F3E-9804-5A95DB125940}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lostsea.Net.Web", "lostsea.Net.Web\lostsea.Net.Web.csproj", "{FE639B77-8B25-471A-A780-EFD6CCF458F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{3CDA0930-5428-4F3E-9804-5A95DB125940}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CDA0930-5428-4F3E-9804-5A95DB125940}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CDA0930-5428-4F3E-9804-5A95DB125940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE639B77-8B25-471A-A780-EFD6CCF458F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE639B77-8B25-471A-A780-EFD6CCF458F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE639B77-8B25-471A-A780-EFD6CCF458F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE639B77-8B25-471A-A780-EFD6CCF458F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{4BE666C3-B62A-41C1-A8D7-6158EB2882C7} = {4D473F2F-9CA8-4EAB-877A-5E603B74F294}
 		{A5FDDE06-45F8-4FC2-818D-0BDE861D20FA} = {E8FAA236-826C-4F4A-B143-37EBBED22C7E}
 		{3CDA0930-5428-4F3E-9804-5A95DB125940} = {EB0F8FC8-A5C6-4868-A24E-78855C3E6CA6}
+		{FE639B77-8B25-471A-A780-EFD6CCF458F3} = {E8FAA236-826C-4F4A-B143-37EBBED22C7E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1147295E-514E-4877-BF92-322BF8784FC4}
